@@ -1,3 +1,8 @@
+Projeto Disponivel na URL 
+
+https://csruas.github.io/csruas-conceitosJavaScriptDON/
+
+
 #Projeto Lista de Compras - Utilizado no Curso Objetos no JavaScript - Escola Front-End Alura
 
 Neste arquivo encontram-se modelos de códigos que serão utilizados no decorrer do curso. 
